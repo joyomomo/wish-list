@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Item" max_length="40" name="x_894607_wish_list_item" type="collection"/>
+</database>
